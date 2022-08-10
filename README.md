@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Casey DuLong, former wet lab biologist turned software developer.
+- 👋 Hi, I’m Casey DuLong, former lab biologist turned software developer.
 - 👀 I’m interested in D&D, sailing, hydroponics, bookbinding, and leatherworking.
-- 🌱 I’m currently learning React and Amazon FBA.
+- 🌱 I’m currently looking for a new fulltime developer position.
 - 📫 You can reach me at `caseydulong@gmail.com`.
 
 <!---
