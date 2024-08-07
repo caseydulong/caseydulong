@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Casey DuLong, former lab biologist turned software developer.
+- 👋 Ahoy! I’m Casey DuLong, a former lab biologist turned software developer.
 - 👀 I’m interested in sailing, hydroponics, bookbinding, and cooking.
-- 🌱 I’m currently working as a web developer at MIT Lincoln Laboratoy.
+- 🔭 I’m currently working as a web developer at MIT Lincoln Laboratoy.
 - 📫 You can reach me at `caseydulong@gmail.com`.
 
 <!---
